@@ -1,0 +1,11 @@
+C:\Users\yuuki\ogw_lpwa\owner_client\obj\Debug\netcoreapp3.1\owner_client.csprojAssemblyReference.cache
+C:\Users\yuuki\ogw_lpwa\owner_client\obj\Debug\netcoreapp3.1\owner_client.AssemblyInfoInputs.cache
+C:\Users\yuuki\ogw_lpwa\owner_client\obj\Debug\netcoreapp3.1\owner_client.AssemblyInfo.cs
+C:\Users\yuuki\ogw_lpwa\owner_client\bin\Debug\netcoreapp3.1\owner_client.exe
+C:\Users\yuuki\ogw_lpwa\owner_client\bin\Debug\netcoreapp3.1\owner_client.deps.json
+C:\Users\yuuki\ogw_lpwa\owner_client\bin\Debug\netcoreapp3.1\owner_client.runtimeconfig.json
+C:\Users\yuuki\ogw_lpwa\owner_client\bin\Debug\netcoreapp3.1\owner_client.runtimeconfig.dev.json
+C:\Users\yuuki\ogw_lpwa\owner_client\bin\Debug\netcoreapp3.1\owner_client.dll
+C:\Users\yuuki\ogw_lpwa\owner_client\bin\Debug\netcoreapp3.1\owner_client.pdb
+C:\Users\yuuki\ogw_lpwa\owner_client\obj\Debug\netcoreapp3.1\owner_client.dll
+C:\Users\yuuki\ogw_lpwa\owner_client\obj\Debug\netcoreapp3.1\owner_client.pdb
