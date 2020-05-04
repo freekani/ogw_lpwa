@@ -44,7 +44,7 @@ namespace server.Controllers
         [HttpGet("latest")]
 
         public async Task<ActionResult<AlertModel>> GetLatestAlertModel(){
-            var alertModel = await _context.AlertModels.LastAsync();
+            var alertModel = await _context.AlertModels.LastOrDefaultAsync();
 
             if (alertModel == null)
             {
