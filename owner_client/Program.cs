@@ -32,7 +32,7 @@ namespace owner_client
                 
                 using (var client = new HttpClient())
                 {
-                    var response = await client.PostAsync(host, new StringContent(json, Encoding.UTF8, @"application/json"));
+                    var response = await client.PostAsync(host+"/api/Alert", new StringContent(json, Encoding.UTF8, @"application/json"));
                 }
             }
             
